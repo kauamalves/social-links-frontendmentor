@@ -29,7 +29,5 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 - Flexbox
 
 ## Author
-
-- Website - [Add your name here](https://www.your-site.com)
 - Frontend Mentor - [@kauamalves](https://www.frontendmentor.io/profile/kauamalves)
 
